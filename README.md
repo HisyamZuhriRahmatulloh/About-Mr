@@ -59,6 +59,5 @@ Repositories here reflect my learning journey and progress over time.
 
 ## Contact
 - 📍 Universitas Negeri Yogyakarta  
-- 🌐 GitHub: https://github.com/your-username  
 
 Thank you for visiting my profile.
